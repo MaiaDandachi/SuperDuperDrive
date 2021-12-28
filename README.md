@@ -1,6 +1,6 @@
 # Super*Duper*Drive Cloud Storage
 
-## user-signup-login-flow:
+## User Signup Login flow:
 ![SignUpLogin](https://user-images.githubusercontent.com/37670647/147603594-277785ac-b94b-4049-88aa-ffcf1d2bb455.gif)
 
 ## File-CRUD:
